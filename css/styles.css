@@ -1,1 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+header {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    margin-bottom: 10em;
+    background: rgb(116,133,223);
+    background: radial-gradient(circle, rgba(116,133,223,1) 0%, rgba(73,162,47,1) 100%); 
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
